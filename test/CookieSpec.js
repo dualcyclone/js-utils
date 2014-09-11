@@ -1,3 +1,5 @@
+var jsutils = require('../');
+
 describe('Cookie Spec', function () {
     beforeEach(function() {
         document.cookie = 'cookie=test';
