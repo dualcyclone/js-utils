@@ -1,4 +1,4 @@
-var jsutils = require('../');
+//var jsutils = require('../');
 
 describe('Cookie Spec', function () {
     beforeEach(function() {
